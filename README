@@ -1,0 +1,7 @@
+This is a container based on Fedora to run an NTP+NTS server using the latest
+code from
+
+https://github.com/mlichvar/chrony-nts
+
+The server's certificates and private key are expected in server.crt and
+server.key files.
